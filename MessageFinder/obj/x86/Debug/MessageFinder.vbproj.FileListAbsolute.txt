@@ -1,0 +1,12 @@
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\bin\Debug\MessageFinder.exe
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\bin\Debug\MessageFinder.pdb
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\bin\Debug\MessageFinder.xml
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\MessageFinder.MFMain.resources
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\MessageFinder.Resources.resources
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\ResGen.read.4.tlog
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\MessageFinder.exe
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\MessageFinder.xml
+C:\Users\hWang\Desktop\Completed Projects\MessageFinder\MessageFinder\obj\x86\Debug\MessageFinder.pdb
